@@ -1,0 +1,7 @@
+vpc_cidr_block = "10.10.0.0/16"
+subnet_cidr_block = "10.10.0.0/24"
+avail_zone = "us-east-1a"
+env_prefix="tf-pracitce"
+my_ip_cidr="0.0.0.0/0"
+ec2_instance_type="t2.micro"
+pubic_key_filepath="~/.ssh/id_rsa.pub"
